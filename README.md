@@ -40,7 +40,11 @@
 
 
 # Penjelasan alur algoritma program latihan2.py
-### 1. While  : Berfungsi untuk perulangan yang memiliki syarat dan tidak tentu berapa banyak perulangannya.
+
+### 1. Klik start lalu cari aplikasi notepad / sublime, disini saya menggunakan sublime
+![prak3](https://user-images.githubusercontent.com/46699512/52926660-4d1f7280-3369-11e9-8fff-f8665f7f05d9.png)
+
+### 2. While  : Berfungsi untuk perulangan yang memiliki syarat dan tidak tentu berapa banyak perulangannya.
 ###    Int    : Berfungsi untuk mengkonversi bilangan maupun string angka menjadi bilangan bulat (intejer)
 ###    If     : Berfungsi untuk menjalankan suatu perintah dalam kondisi tertentu.
 ###    Break  : Berfungsi untuk menghentikan operasi dibawahnya jika suatu kondisi yang ditentukan telah tercapai
@@ -49,16 +53,30 @@
 ###     Artinya jika kita memasukkan bilangan 0 maka selesai sudah penghitungannya dan akan muncul bilangan terbesarnya.
 ![lat2e](https://user-images.githubusercontent.com/46699512/52720619-873feb80-2fda-11e9-90e6-9c3d2900cfd9.png)
 
-### 2. Kemudian save file ini dengan nama (latihan2.py)
+### 3. Kemudian save file ini dengan nama (latihan2.py)
 ![lat2f](https://user-images.githubusercontent.com/46699512/52720622-87d88200-2fda-11e9-98a3-f30845992d57.png)
 
-### 3. Kemudian buka CMD, selanjutnya ketik latihan2.py
+### 4. Kemudian buka CMD, selanjutnya ketik latihan2.py
 ![lat2g](https://user-images.githubusercontent.com/46699512/52720606-83ac6480-2fda-11e9-8761-4cf2f5bb4ad6.png)
 
-### 4. Lalu enter dan masukkan beberapa bilangan, den yang terakhir masukkan bilangan 0
+### 5. Lalu enter dan masukkan beberapa bilangan, dan yang terakhir masukkan bilangan 0
 ![lat2h](https://user-images.githubusercontent.com/46699512/52720607-8444fb00-2fda-11e9-966d-2728a7425a60.png)
 
-### 5. Klik enter dan dan kemudian akan muncul bilangan yang terbesar. Selesai
+### 6. Klik enter dan kemudian akan muncul bilangan yang terbesar. Selesai
 ![lat2i](https://user-images.githubusercontent.com/46699512/52720608-84dd9180-2fda-11e9-94f2-b4ad03a92730.png)
 
 # Penjelasan alur algoritma program1.py
+### 1. Klik start lalu cari aplikasi notepad / sublime, disini saya menggunakan sublime
+![prak3](https://user-images.githubusercontent.com/46699512/52926660-4d1f7280-3369-11e9-8fff-f8665f7f05d9.png)
+
+2. ads
+![prog6](https://user-images.githubusercontent.com/46699512/52926662-4db80900-3369-11e9-96da-6478285ba885.png)
+
+### 3. Lalu save file ini dengan nama (program1.py)
+![prog7](https://user-images.githubusercontent.com/46699512/52926663-4e509f80-3369-11e9-88ff-9505228baef4.png)
+
+### 4. Kemudian buka CMD, selanjutnya ketik program1.py
+![prog8](https://user-images.githubusercontent.com/46699512/52926665-4e509f80-3369-11e9-8a30-14e415796dbf.png)
+
+### 5. Klik enter dan kemudian akan muncul laba bulan ke 1 sampai 8, dan akan terhitung total nilai laba tersebut. Selesai
+![prog9](https://user-images.githubusercontent.com/46699512/52926666-4ee93600-3369-11e9-95b0-1f28bc34de56.png)
