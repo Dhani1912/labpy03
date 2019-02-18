@@ -44,14 +44,16 @@
 ### 1. Klik start lalu cari aplikasi notepad / sublime, disini saya menggunakan sublime
 ![prak3](https://user-images.githubusercontent.com/46699512/52926660-4d1f7280-3369-11e9-8fff-f8665f7f05d9.png)
 
-### 2. While  : Berfungsi untuk perulangan yang memiliki syarat dan tidak tentu berapa banyak perulangannya.
-###    Int    : Berfungsi untuk mengkonversi bilangan maupun string angka menjadi bilangan bulat (intejer)
-###    If     : Berfungsi untuk menjalankan suatu perintah dalam kondisi tertentu.
-###    Break  : Berfungsi untuk menghentikan operasi dibawahnya jika suatu kondisi yang ditentukan telah tercapai
-###     Ketik " if a == 0: "
-###     break
-###     Artinya jika kita memasukkan bilangan 0 maka selesai sudah penghitungannya dan akan muncul bilangan terbesarnya.
+### 2. Ketik kodingan seperti gambar dibawah ini
 ![lat2e](https://user-images.githubusercontent.com/46699512/52720619-873feb80-2fda-11e9-90e6-9c3d2900cfd9.png)
+        while disebut uncounted loop (perulangan yang tak terhitung), yaitu perulangan yang dilakukan berdasarkan kondisi tertentu selama nilai kondisi bernilai TRUE.
+        Int    : Berfungsi untuk mengkonversi bilangan maupun string angka menjadi bilangan bulat (integer).
+        If     : Berfungsi untuk menjalankan suatu perintah dalam kondisi tertentu.
+        Break  : digunakan untuk menghentikan proses perulangan pada kondisi tertentu.
+        print() : berfungsi untuk mencetak atau menampilkan objek ke perangkat keluaran (layar) atau ke file teks.
+                Ketik " if a == 0: "
+                break
+        Artinya jika kita memasukkan bilangan 0 maka selesai sudah penghitungannya dan akan muncul bilangan terbesarnya.
 
 ### 3. Kemudian save file ini dengan nama (latihan2.py)
 ![lat2f](https://user-images.githubusercontent.com/46699512/52720622-87d88200-2fda-11e9-98a3-f30845992d57.png)
@@ -69,8 +71,12 @@
 ### 1. Klik start lalu cari aplikasi notepad / sublime, disini saya menggunakan sublime
 ![prak3](https://user-images.githubusercontent.com/46699512/52926660-4d1f7280-3369-11e9-8fff-f8665f7f05d9.png)
 
-2. ads
+### 2. Ketik kodingan seperti dibawah ini
 ![prog6](https://user-images.githubusercontent.com/46699512/52926662-4db80900-3369-11e9-96da-6478285ba885.png)
+Perulangan for : disebut juga sebagai counted loop (perulangan yang terhitung), yaitu perintah yang dieksekusi secara berulang berdasarkan jumlah perulangan tertentu.
+range   : Berfungsi untuk mengembalikan deret integer berurut pada range yang ditentukan dari start sampai stop.
+if      : Bila suatu kondisi tertentu tercapai maka apa yang harus dilakukan. Dengan fungsi ini kita bisa menjalankan suatu perintah dalam kondisi tertentu.
+print () : berfungsi untuk mencetak atau menampilkan objek ke perangkat keluaran (layar) atau ke file teks.
 
 ### 3. Lalu save file ini dengan nama (program1.py)
 ![prog7](https://user-images.githubusercontent.com/46699512/52926663-4e509f80-3369-11e9-88ff-9505228baef4.png)
