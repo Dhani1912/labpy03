@@ -49,12 +49,16 @@
 ###     Artinya jika kita memasukkan bilangan 0 maka selesai sudah penghitungannya dan akan muncul bilangan terbesarnya.
 ![lat2e](https://user-images.githubusercontent.com/46699512/52720619-873feb80-2fda-11e9-90e6-9c3d2900cfd9.png)
 
+### 2. Kemudian save file ini dengan nama (latihan2.py)
 ![lat2f](https://user-images.githubusercontent.com/46699512/52720622-87d88200-2fda-11e9-98a3-f30845992d57.png)
 
+### 3. Kemudian buka CMD, selanjutnya ketik latihan2.py
 ![lat2g](https://user-images.githubusercontent.com/46699512/52720606-83ac6480-2fda-11e9-8761-4cf2f5bb4ad6.png)
 
+### 4. Lalu enter dan masukkan beberapa bilangan, den yang terakhir masukkan bilangan 0
 ![lat2h](https://user-images.githubusercontent.com/46699512/52720607-8444fb00-2fda-11e9-966d-2728a7425a60.png)
 
+### 5. Klik enter dan dan kemudian akan muncul bilangan yang terbesar. Selesai
 ![lat2i](https://user-images.githubusercontent.com/46699512/52720608-84dd9180-2fda-11e9-94f2-b4ad03a92730.png)
 
 # Penjelasan alur algoritma program1.py
